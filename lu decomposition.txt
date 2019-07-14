@@ -1,0 +1,8 @@
+		lu decomposition
+
+the solution is:
+	1)	-0.400000
+	2)	2.600000
+	3)	2.000000
+
+Elapsed Time: 0.657556
